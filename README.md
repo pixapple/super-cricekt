@@ -1,4 +1,4 @@
-# super-cricekt
+# super-cricket
 you can play a cricket game against your computer bot!
 import random
 
